@@ -1,4 +1,6 @@
-![readme](https://github.com/user-attachments/assets/911d3fad-a907-46d6-8741-3dccf248a7f4)
+<div align="center">
+  <img src="readme.png" alt="readme image" width="400px">
+</div>
 <br>
 <div align="center">
   <h3>반갑습니다! 프론트엔드 개발자 고가연입니다💻<h3/>
