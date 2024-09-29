@@ -1,6 +1,7 @@
 <div align="center">
   <img src="readme.png" alt="readme image" width="400px">
 </div>
+
 <div align="center">
   <h2>반갑습니다! 프론트엔드 개발자 고가연입니다💻</h2>
 </div>
@@ -8,7 +9,7 @@
 <br>
 
 <div align="center">
-  <a href="https://gayeongogo.github.io/Portfolio/">📌가연 포트폴리오</a>
+  📌<a href="https://gayeongogo.github.io/Portfolio/" style={{fontSize: '20px', color: 'blue'}}>가연 포트폴리오</a>
 </div>
 
 <h5 align="center">✨ Tech Stack ✨</h5>
