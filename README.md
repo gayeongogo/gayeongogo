@@ -5,7 +5,7 @@
 <div align="center">
   <h3>반갑습니다! 프론트엔드 개발자 고가연입니다💻<h3/>
 <div>
-<br>
+
 [✨ 가연 포트폴리오 ✨](https://gayeongogo.github.io/Portfolio/)
 
 
