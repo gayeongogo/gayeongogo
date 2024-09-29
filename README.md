@@ -5,7 +5,11 @@
   <h2>반갑습니다! 프론트엔드 개발자 고가연입니다💻</h2>
 </div>
 
-[📌 가연 포트폴리오](https://gayeongogo.github.io/Portfolio/)
+<br>
+
+<div align="center">
+  <a href="https://gayeongogo.github.io/Portfolio/">📌가연 포트폴리오</a>
+</div>
 
 <h5 align="center">✨ Tech Stack ✨</h5>
 <div align="center">
