@@ -3,16 +3,18 @@
 </div>
 
 <div align="center">
-  <h2>반갑습니다! 프론트엔드 개발자 고가연입니다💻</h2>
+  <h3 style="fontSize: 25px;">반갑습니다! 프론트엔드 개발자 고가연입니다💻</h3>
 </div>
 
 <br>
 
 <div align="center">
-  📌<a href="https://gayeongogo.github.io/Portfolio/" style={{fontSize: '20px', color: 'blue'}}>가연 포트폴리오</a>
+  ▶️<a href="https://gayeongogo.github.io/Portfolio/" style="fontSize: 20px; fontWeight: bold; color: blue;">가연 포트폴리오</a>◀️
 </div>
 
-<h5 align="center">✨ Tech Stack ✨</h5>
+<br>
+
+<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
