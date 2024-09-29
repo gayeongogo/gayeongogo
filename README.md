@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <h3 style="fontSize: 25px;">반갑습니다! 프론트엔드 개발자 고가연입니다💻</h3>
+  <h3 style="fontSize: 27px;">반갑습니다! 프론트엔드 개발자 고가연입니다💻</h3>
 </div>
 
 <br>
 
 <div align="center">
-  ▶️<a href="https://gayeongogo.github.io/Portfolio/" style="fontSize: 20px; fontWeight: bold; color: blue;">가연 포트폴리오</a>◀️
+  ▶️<a href="https://gayeongogo.github.io/Portfolio/" style="fontSize: 24px; fontWeight: bold; color: blue;">가연 포트폴리오</a>◀️
 </div>
 
 <br>
