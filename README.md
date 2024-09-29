@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <h2>반갑습니다! 프론트엔드 개발자 고가연입니다💻</h2>
-</div>div>
+</div>
   
 <br>
 
