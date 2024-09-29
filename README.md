@@ -2,14 +2,15 @@
   <img src="readme.png" alt="readme image" width="400px">
 </div>
 <div align="center">
-  <h2>반갑습니다! 프론트엔드 개발자 고가연입니다💻<h2/>
+  <h2>반갑습니다! 프론트엔드 개발자 고가연입니다💻</h2>>
 <div>
+  
 <br>
 
 [📌 가연 포트폴리오](https://gayeongogo.github.io/Portfolio/)
 
 <br>
-<h5 align="center">✨ Tech Stack ✨</h5
+<h5 align="center">✨ Tech Stack ✨</h5>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
