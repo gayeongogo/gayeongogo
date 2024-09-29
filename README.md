@@ -6,7 +6,7 @@
 <div>
 <br>
 
-###[📌 가연 포트폴리오](https://gayeongogo.github.io/Portfolio/)
+[📌 가연 포트폴리오](https://gayeongogo.github.io/Portfolio/)
 
 <br>
 <h5 align="center">✨ Tech Stack ✨</h5
