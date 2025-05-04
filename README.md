@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="readme.png" alt="readme image" width="400px">
-</div>
-
-<div align="center">
   <h3 style="fontSize: 27px;">반갑습니다👋 프론트엔드 개발자 고가연입니다💻</h3>
 </div>
 
